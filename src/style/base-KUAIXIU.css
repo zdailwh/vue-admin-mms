@@ -1,0 +1,31 @@
+#app .sidebar-container {
+  background-color: #1b6261;
+}
+.sidebar-logo-container {
+  background-color: #ebfeff !important;
+  height: 70px !important;
+  line-height: 70px !important;
+}
+.el-menu {
+  background-color: #1b6261 !important;
+}
+.el-menu-item.submenu-title-noDropdown {
+  background-color: transparent !important;
+  color: #fff !important;
+}
+.el-menu-item.is-active {
+  color: #a2fedf !important;
+}
+#app .sidebar-container .submenu-title-noDropdown:hover {
+  background-color: #0f4040 !important;
+  color: #fff !important;
+}
+.login-container {
+  background-color: #ebfeff !important;
+}
+.login-container .title-container .title {
+  color: #0f4040 !important;
+}
+.login-container .el-input input {
+  color: #555 !important;
+}

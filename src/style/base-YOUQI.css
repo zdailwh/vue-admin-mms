@@ -1,0 +1,31 @@
+#app .sidebar-container {
+  background-color: #e1e1e1;
+}
+.sidebar-logo-container {
+  background-color: #f8f8f8 !important;
+  height: 70px !important;
+  line-height: 70px !important;
+}
+.el-menu {
+  background-color: #e1e1e1 !important;
+}
+.el-menu-item.submenu-title-noDropdown {
+  background-color: transparent !important;
+  color: #6b6b6b !important;
+}
+.el-menu-item.is-active {
+  color: #be3985 !important;
+}
+#app .sidebar-container .submenu-title-noDropdown:hover {
+  background-color: #8c8c8c !important;
+  color: #6b6b6b !important;
+}
+.login-container {
+  background-color: #f8f8f8 !important;
+}
+.login-container .title-container .title {
+  color: #bf3b84 !important;
+}
+.login-container .el-input input {
+  color: #555 !important;
+}
